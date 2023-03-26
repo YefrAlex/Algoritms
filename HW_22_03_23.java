@@ -1,4 +1,3 @@
-package Algoritms;
 
 public class HW_22_03_23 {
     public static void main(String[] args) {
